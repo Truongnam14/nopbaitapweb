@@ -1,0 +1,89 @@
+body {
+    background: url('../hinh_anh/bong\ da.jpeg') bottom center no-repeat fixed;
+}
+
+input {
+    font-size: larger;
+    font-weight: bold;
+    width: 325px;
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid yellow;
+}
+
+.button {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid yellow;
+}
+
+.button5:hover {
+    background-color: #555555;
+    color: white;
+}
+
+.list {
+    width: fit-content;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.form_box {
+    background: url(../hinh_anh/anhnen.png) top left no-repeat;
+    background-size: 100% 100%;
+    -webkit-filter: drop-shadow(5px 5px 15px #000) brightness(1) !important;
+    filter: drop-shadow(5px 5px 15px #000) brightness(1) !important;
+    width: 30%;
+    height: 50%;
+    margin: 0 auto;
+    padding: 50px 0;
+    /* text-align: center; */
+    align-items: center;
+}
+
+
+
+.logo {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.slogan {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.slogan img {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.footer {
+    width: 100%;
+}
+
+.footer img {
+    width: 100%;
+}
