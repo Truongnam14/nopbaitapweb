@@ -1,0 +1,32 @@
+<html>
+
+<head>
+    <title> trang ca do da banh</title>
+    <link rel="stylesheet" href="/Demo/style.css">
+</head>
+
+<body>
+    <div class="logo">
+        <img src="./hinh_anh/logo.png">
+    </div>
+    <div class="slogan">
+        <img src="./hinh_anh/slogan.png">
+    </div>
+    <form class="form_box">
+        <ul class="list">
+            <li><button class="button button5"> Đăng Ký </button> <button class="button button5">Đăng Nhập</button></li>
+            <li><input placeholder="Tên đăng nhập"> </input></li>
+            <li><input placeholder="Mật khẩu"> </input></li>
+            <li><input placeholder="Nhập lại mật khẩu"> </input></li>
+            <li><input placeholder=" Số diện thoại"></input></li>
+            <li > <button class="button button5" > Nhận Ngay 8 triệu</button></li>
+        </ul>
+    </form>
+    <div class="footer">
+        <img src="./hinh_anh/bg-footer.png">
+    </div>
+
+
+</body>
+
+</html>
